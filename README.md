@@ -1,2 +1,2 @@
 # Expanding-Cards
-Right now it's just a practice
+Cards expand as I scroll down the road
